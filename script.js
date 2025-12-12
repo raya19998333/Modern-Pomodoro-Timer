@@ -1,5 +1,5 @@
 const MODES = { pomodoro: 25 * 60, short: 5 * 60, long: 15 * 60 };
-const COLORS = { pomodoro: '#667eea', short: '#f59e0b', long: '#10b981' };
+const COLORS = { pomodoro: '#ffffffff', short: '#f5d59fff', long: '#b4cdc5ff' };
 const QUOTES = [
   'Keep it simple, stupid!',
   'Debugging is like being a detective.',
